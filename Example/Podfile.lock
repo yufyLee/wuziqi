@@ -1,0 +1,16 @@
+PODS:
+  - wuziqi (0.1.0)
+
+DEPENDENCIES:
+  - wuziqi (from `../`)
+
+EXTERNAL SOURCES:
+  wuziqi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wuziqi: ac680440fcbf4cba490bfe2920c2d094a525d3ed
+
+PODFILE CHECKSUM: 12885e3910664585abdb2880767b39e6d49c067a
+
+COCOAPODS: 1.11.0
